@@ -1,0 +1,24 @@
+{
+  "name": "fakeamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FakeAmazon.js",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisJMorales/FakeAmazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisJMorales/FakeAmazon/issues"
+  },
+  "homepage": "https://github.com/DennisJMorales/FakeAmazon#readme"
+}
